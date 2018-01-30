@@ -1,1 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "dark" 
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Joey Schluchter"
+title_separator          : "-"
+name                     : "Joey"
+description              : "Something witty"
